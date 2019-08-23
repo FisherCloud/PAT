@@ -19,26 +19,4 @@
 
 - [CSDN博客][CSDN]
 
-## 讨论/交流
-
-非常欢迎讨论!
-
-- 我在Github Pages博客里使用了[gitalk][]评论系统，可登录Github账号进行评论，
-  大家在简书和CSDN评论我同样会认真回复
-
-- 发现问题/题目讨论，要改正/改进代码，比如有更高效的算法，更简洁的逻辑，
-  也欢迎提交[issue][issues]或者[pull request][pulls]
-
-- 邮箱:oliver_lew@outlook.com
-
-##
-[gh-pages]: https://oliverlew.github.io/PAT/
-[issues]: https://github.com/OliverLew/PAT/issues
-[pulls]: https://github.com/OliverLew/PAT/pulls
-
-[pat]: https://pintia.cn/problem-sets
-
-[jianshu]: https://www.jianshu.com/u/6d7ea07c8f6e
-[CSDN]: https://blog.csdn.net/Oliver__Lew
-
-[gitalk]: https://github.com/gitalk/gitalk
+## fork from https://github.com/OliverLew/PAT
