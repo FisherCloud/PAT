@@ -10,13 +10,6 @@
 
 按最初计划，已成功初步在Github Pages上建立了博客，用这个主要是因为高度可定制性，
 高亮很棒，并且可以用markdown写文章，还能用git进行管理，
-现在还可以最大程度保留原题格式（包括LaTeX公式）。所以以后最先更新的是这里的文章，
-但我会尽量用一个简单的方法把内容同步到另两个平台上。
-
-- [Github Pages][gh-pages] (主要更新)
-
-- [简书][jianshu]
-
-- [CSDN博客][CSDN]
+现在还可以最大程度保留原题格式（包括LaTeX公式）。
 
 ## fork from https://github.com/OliverLew/PAT
